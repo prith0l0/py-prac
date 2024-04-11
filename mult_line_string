@@ -1,0 +1,5 @@
+#multi_line_string
+a3="""Im a 
+good boy.
+I love to code at night."""
+print(a3)
