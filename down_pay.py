@@ -6,4 +6,4 @@ if Have_gc:
     down_payment = 0.1 * House_price
 else:
     down_payment = 0.2 * House_price
-print(f"Down payment: {down_payment}")
+print(f"Down payment: ${down_payment}")
